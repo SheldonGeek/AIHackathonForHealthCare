@@ -5,6 +5,8 @@ Team members: John Montoya, Natalie Kay, Lei Pan
 ### Summary
 A more accurae and cost-effective way of using deep leraning of respiratory sounds to detect possible indicators of respiratory diseases such as wheeze and crackles.
 
+* Please make sure you change n_epochs from 1 to 15 or 20. For this hackathon, we only did 1 iteration. For 15 or 20, it will get much higher accuracy.
+
 ### Technical Details
 We used an open source project from one kaggle competition for solving this diseases clasification problem. Convolutional neural network is used to identify wheezes and crackles. Let's talk about inputs. Inputs are Mel-Spectrograms. All the audio files are split into multiple piece if necessary. Those files are also copied to 5 second long buffers with zero padding added to fill the buffer.
 
