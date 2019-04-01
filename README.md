@@ -1,6 +1,6 @@
 # AIHackathonForHealthCare
 Team: Ikigai
-Team members: John Feyn, Natalie Kay, Lei Pan
+Team members: John Montoya, Natalie Kay, Lei Pan
 
 ### Summary
 A more accurae and cost-effective way of using deep leraning of respiratory sounds to detect possible indicators of respiratory diseases such as wheeze and crackles.
